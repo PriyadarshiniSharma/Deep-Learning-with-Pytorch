@@ -1,4 +1,4 @@
-### This repository keeps track of my Pytorch learnings 
+### Deep Learning with Pytorch 
 #### Resources followed to build basic concepts: 
 
 * [Pytorch Tutorial](https://www.youtube.com/watch?v=c36lUUr864M)
